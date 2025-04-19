@@ -1,0 +1,6 @@
+model,task_name,prompt,response_time_sec,cpu_used_percent,memory_used_MB
+deepseek-r1:7b,Q1,What is differential diagnosis for retroperitoneal mass in a child on a CT or MRI?,401.53,53.199999999999996,4148.0
+deepseek-r1:7b,Q2,What is differential diagnosis for combination of cleft palate and campomelic dysplasia?,356.62,55.1,60.67
+deepseek-r1:7b,Q3,What are common MRI artifacts and how are they prevented during aquisition?,468.53,55.0,58.19
+deepseek-r1:7b,Q4,What is the best MRI protocol to evaluate ulnar collaterial ligament injury?,14866.15,56.199999999999996,-21.42
+deepseek-r1:7b,Q5,"What is the sensitivity and specificity for pancreatitis by ultrasound, CT, and MRI?",347.17,54.9,-656.4
