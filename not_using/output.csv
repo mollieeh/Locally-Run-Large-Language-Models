@@ -1,7 +1,0 @@
-Model,Task,Response Time (sec),CPU Usage (%),Memory Used (MB)
-tinyllama:latest,General Question Answering,3.44,40.3,833.17
-tinyllama:latest,Text Summarization,4.17,57.4,-22.45
-tinyllama:latest,Code Generation,15.09,57.6,-25.06
-tinyllama:latest,Creative Writing,57.83,66.0,-1539.1
-deepseek-r1:7b,General Question Answering,87.99,55.6,4932.29
-deepseek-r1:7b,Text Summarization,12.56,62.4,1034.45
